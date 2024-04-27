@@ -20,7 +20,7 @@ Run the Mocha test specs in that file with the following command:
 npm test test/dragon-spec.js
 ```
 
-Implement the following in the __classes/dragon.js__ file.
+_Implement the following in the __classes/dragon.js__ file.
 
 1. Define a class named `Dragon` containing a constructor method that
    accepts two arguments which should initialize the following properties:
